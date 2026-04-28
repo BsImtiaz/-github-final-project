@@ -8,12 +8,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r/100
-<<<<<<< HEAD
-
-2023 XYZ,  Inc.
-
-
-2023 XYZ, Inc.
-Merged.
 
 2022 XYZ, Inc.
